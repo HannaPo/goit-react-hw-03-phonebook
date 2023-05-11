@@ -6,11 +6,11 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
- font-weight: bold;
+  font-weight: bold;
   margin-bottom: 0.5rem;
 `;
 
 export const ContactsTitle = styled.h2`
- font-weight: bold;
-margin-bottom: 0.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
 `;
